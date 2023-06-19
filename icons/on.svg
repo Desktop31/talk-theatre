@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="48" height="48">
+	<title>icon</title>
+	<style>
+		.s0 { fill: none;stroke: #00c700;stroke-width: 75 } 
+		.s1 { fill: none;stroke: #00c700;stroke-width: 60 } 
+	</style>
+	<path id="rect" class="s0" d="m44 172h263v168h-263z"/>
+	<path id="rect copy" class="s1" d="m390 165h84v181.8h-84z"/>
+</svg>

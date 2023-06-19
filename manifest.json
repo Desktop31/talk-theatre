@@ -1,0 +1,27 @@
+{
+
+  "description": "Přidá theatre režim na TalkTV.cz",
+  "manifest_version": 2,
+  "name": "Talk-Theatre",
+  "version": "1.0",
+  "homepage_url": "https://desktop31.cz",
+  "icons": {
+      "512": "icons/icon-512.png",
+      "48": "icons/icon-48.png"
+  },
+
+  "background": {
+    "scripts": ["theatre.js"]
+  },
+
+  "page_action": {
+    "default_icon": "icons/off.svg",
+    "browser_style": true
+  },
+  
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ]
+
+}

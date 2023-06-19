@@ -1,0 +1,7 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="48" height="48">
+	<title>icon</title>
+	<style>
+		.s0 { fill: none;stroke: #00c700;stroke-width: 75 } 
+	</style>
+	<path id="rect" class="s0" d="m44 172h425v167.6h-425z"/>
+</svg>
