@@ -4,7 +4,7 @@
   "manifest_version": 2,
   "name": "Talk-Theatre",
   "version": "1.0",
-  "homepage_url": "https://desktop31.cz",
+  "homepage_url": "https://github.com/Desktop31/talk-theatre",
   "icons": {
       "512": "icons/icon-512.png",
       "48": "icons/icon-48.png"
